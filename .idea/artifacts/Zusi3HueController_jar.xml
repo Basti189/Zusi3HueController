@@ -3,6 +3,8 @@
     <output-path>$PROJECT_DIR$/out/artifacts/Zusi3HueController_jar</output-path>
     <root id="archive" name="Zusi3HueController.jar">
       <element id="module-output" name="Zusi3HueController" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Zusi3Schnittstelle/out/artifacts/Zusi3Schnittstelle_jar/Zusi3Schnittstelle.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../SimpleHue/out/artifacts/SimpleHue_jar/SimpleHue.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>
