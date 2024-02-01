@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Zusi3HueController:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Zusi3HueController_jar</output-path>
+    <root id="archive" name="Zusi3HueController.jar">
+      <element id="module-output" name="Zusi3HueController" />
+    </root>
+  </artifact>
+</component>
